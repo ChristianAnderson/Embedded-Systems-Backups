@@ -7,7 +7,7 @@
 float LeftSensor=0;  //Puerto a0
 float RightSensor=0; //Puerto a1
 
-float CenterSensor=0; //Puerto a2
+float CenterSensor=0; //Puerto a2 3 
 
 long voltaje = 660;
 
